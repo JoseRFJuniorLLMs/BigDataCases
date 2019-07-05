@@ -1,0 +1,194 @@
+country,beer_servings,spirit_servings,wine_servings,total_litres_of_pure_alcohol,population,continent
+Afghanistan,0,0,0,0,34.660.000,Asia
+Albania,89,132,54,4.9,2.876.000,Europe
+Algeria,25,0,14,0.7,40.061.000,Africa
+Andorra,245,138,312,12.4,77.281.000,Europe
+Angola,217,57,45,5.9,28.081.000,Africa
+Antigua & Barbuda,102,128,45,4.9,86.295,North America
+Argentina,193,25,221,8.3,43.085.000,South America
+Armenia,21,179,11,3.8,2.925.000,Europe
+Australia,261,72,212,10.4,24.013.000,Oceania
+Austria,279,75,191,9.7,8.725.111,Europe
+Azerbaijan,21,46,5,1.3,9.654.900,Europe
+Bahamas,122,176,51,6.3,368.390,North America
+Bahrain,42,63,7,2,1.359.800,Asia
+Bangladesh,0,0,0,0,159.145.000,Asia
+Barbados,143,173,36,6.3,285.000,North America
+Belarus,142,373,42,14.4,9.485.300,Europe
+Belgium,295,84,212,10.5,11.250.659,Europe
+Belize,263,114,8,6.8,368.310,North America
+Benin,34,4,13,1.1,10.315.244,Africa
+Bhutan,23,0,0,0.4,765.650,Asia
+Bolivia,167,41,8,3.8,11.410.651,South America
+Bosnia-Herzegovina,76,173,8,4.6,3.791.622,Europe
+Botswana,173,35,35,5.4,2.070.984,Africa
+Brazil,245,145,16,7.2,207.660.929,South America
+Brunei,31,2,1,0.6,393.372,Asia
+Bulgaria,231,252,94,10.3,7.202.198,Europe
+Burkina Faso,25,7,7,4.3,18.450.494,Africa
+Burundi,88,0,0,6.3,9.823.827,Africa
+Cote d'Ivoire,37,1,7,4,22.671.331,Africa
+Cabo Verde,144,56,16,4,524.833,Africa
+Cambodia,57,65,1,2.2,15.405.157,Asia
+Cameroon,147,1,4,5.8,23.344.000,Africa
+Canada,240,122,100,8.2,35.851.774,North America
+Central African Republic,17,2,1,1.8,4.900.000,Africa
+Chad,15,1,1,0.4,14.037.000,Africa
+Chile,130,124,172,7.6,18.006.407,South America
+China,79,192,8,5,1.372.470.000,Asia
+Colombia,159,76,3,4.2,48.336.300,South America
+Comoros,1,3,1,0.1,784.745,Africa
+Congo,76,1,9,1.7,77.267.000,Africa
+Cook Islands,0,254,74,5.9,14.974,Oceania
+Costa Rica,149,87,11,4.4,4.773.130,North America
+Croatia,230,87,254,10.2,4.225.316,Europe
+Cuba,93,137,5,4.2,11.238.317,North America
+Cyprus,192,154,113,8.2,858.000,Europe
+Czech Republic,361,170,134,11.8,10.537.818,Europe
+North Korea,0,0,0,0,25.155.000,Asia
+DR Congo,32,3,1,2.3,4.620.000,Africa
+Denmark,224,81,278,10.4,5.678.348,Europe
+Djibouti,15,44,3,1.1,888.000,Africa
+Dominica,52,286,26,6.6,71.293,North America
+Dominican Republic,193,147,9,6.2,10.528.000,North America
+Ecuador,162,74,3,4.2,16.027.500,South America
+Egypt,6,4,1,0.2,89.619.300,Africa
+El Salvador,52,69,2,2.2,6.401.240,North America
+Equatorial Guinea,92,0,233,5.8,1.222.442,Africa
+Eritrea,18,0,0,0.5,4.475.000,Africa
+Estonia,224,194,59,9.5,1.313.271,Europe
+Ethiopia,20,3,0,0.7,90.076.012,Africa
+Fiji,77,35,1,2,859.178,Oceania
+Finland,263,133,97,10,5.489.007,Europe
+France,127,151,370,11.8,67.087.000,Europe
+Gabon,347,98,59,8.9,1.725.000,Africa
+Gambia,8,0,1,2.4,1.882.450,Africa
+Georgia,52,100,149,5.4,3.729.500,Europe
+Germany,346,117,175,11.3,81.197.500,Europe
+Ghana,31,3,10,1.8,27.043.093,Africa
+Greece,133,112,218,8.3,10.846.979,Europe
+Grenada,199,438,28,11.9,107.317.000,North America
+Guatemala,53,69,2,2.2,16.176.133,North America
+Guinea,9,0,2,0.2,10.628.972,Africa
+Guinea-Bissau,28,31,21,2.5,1.844.000,Africa
+Guyana,93,302,1,7.1,746.900,South America
+Haiti,1,326,1,5.9,10.911.819,North America
+Honduras,69,98,2,3,8.725.111,North America
+Hungary,234,215,185,11.3,9.849.000,Europe
+Iceland,233,61,78,6.6,341.256,Europe
+India,9,114,0,2.2,1.278.160.000,Asia
+Indonesia,5,1,0,0.1,255.780.000,Asia
+Iran,0,0,0,0,78.690.300,Asia
+Iraq,9,3,0,0.2,36.004.552,Asia
+Ireland,313,118,165,11.4,4.635.400,Europe
+Israel,63,69,9,2.5,8.412.000,Asia
+Italy,85,42,237,6.5,60.725.000,Europe
+Jamaica,82,97,9,3.4,2.717.991,North America
+Japan,77,202,16,7,126.832.000,Asia
+Jordan,6,21,1,0.5,7.595.000,Asia
+Kazakhstan,124,246,12,6.8,17.563.300,Asia
+Kenya,58,22,2,1.8,46.050.000,Africa
+Kiribati,21,34,1,1,106.461,Oceania
+Kuwait,0,0,0,0,3.268.431,Asia
+Kyrgyzstan,31,97,6,2.4,6.083.000,Asia
+Laos,62,0,123,6.2,6.802.000,Asia
+Latvia,281,216,62,10.5,1.978.300,Europe
+Lebanon,20,55,31,1.9,4.168.000,Asia
+Lesotho,82,29,0,2.8,2.204.000,Africa
+Liberia,19,152,2,3.1,4.503.000,Africa
+Libya,0,0,0,0,6.278.000,Africa
+Lithuania,343,244,56,12.9,2.900.787,Europe
+Luxembourg,236,133,271,11.4,562.958,Europe
+Madagascar,26,15,4,0.8,22.434.363,Africa
+Malawi,8,11,1,1.5,16.310.431,Africa
+Malaysia,13,4,0,0.3,30.727.000,Asia
+Maldives,0,0,0,0,341.256,Asia
+Mali,5,1,1,0.6,17.600.000,Africa
+Malta,149,100,120,6.6,445.426,Europe
+Marshall Islands,0,0,0,0,56.086,Oceania
+Mauritania,0,0,0,0,3.631.775,Africa
+Mauritius,98,31,18,2.6,1.261.208,Africa
+Mexico,238,68,5,5.5,121.005.815,North America
+Micronesia,62,50,18,2.3,101.000,Oceania
+Monaco,0,0,0,0,37.800,Europe
+Mongolia,77,189,8,4.9,3.037.675,Asia
+Montenegro,31,114,128,4.9,621.207,Europe
+Morocco,12,6,10,0.5,33.337.529,Africa
+Mozambique,47,18,5,1.3,25.727.911,Africa
+Myanmar,5,1,0,0.1,53.897.000,Asia
+Namibia,376,3,1,6.8,2.280.700,Africa
+Nauru,49,0,8,1,10.084,Oceania
+Nepal,5,6,0,0.2,28.037.904,Asia
+Netherlands,251,88,190,9.4,16.922.900,Europe
+New Zealand,203,79,175,9.3,4.621.680,Oceania
+Nicaragua,78,118,1,3.5,6.198.154,North America
+Niger,3,2,1,0.1,19.899.000,Africa
+Nigeria,42,5,2,9.1,182.202.000,Africa
+Niue,188,200,7,7,1.190,Oceania
+Norway,169,71,129,6.7,5.189.435,Europe
+Oman,22,16,1,0.7,4.257.568,Asia
+Pakistan,0,0,0,0,209.156.000,Asia
+Palau,306,63,23,6.9,20.901,Oceania
+Panama,285,104,18,7.2,3.764.166,North America
+Papua New Guinea,44,39,1,1.5,7.398.500,Oceania
+Paraguay,213,117,74,7.3,7.003.406,South America
+Peru,163,160,21,6.1,31.151.643,South America
+Philippines,71,186,1,4.6,102.157.500,Asia
+Poland,343,215,56,10.9,38.484.000,Europe
+Portugal,194,67,339,11,10.374.822,Europe
+Qatar,1,42,7,0.9,2.120.129,Asia
+South Korea,140,16,9,9.8,51.482.816,Asia
+Moldova,109,226,18,6.3,3.555.200,Europe
+Romania,297,122,167,10.4,19.942.642,Europe
+Russian Federation,247,326,73,11.5,146.606.730,Asia
+Rwanda,43,2,0,6.8,11.092.000,Africa
+St. Kitts & Nevis,194,205,32,7.7,54.821,North America
+St. Lucia,171,315,71,10.1,178.015,North America
+St. Vincent & the Grenadines,120,221,11,6.3,109.643,North America
+Samoa,105,18,24,2.6,187.820,Oceania
+San Marino,0,0,0,0,32.831,Europe
+Sao Tome & Principe,56,38,140,4.2,187.356,Africa
+Saudi Arabia,0,5,0,0.1,31.521.418,Asia
+Senegal,9,1,7,0.3,13.508.715,Africa
+Serbia,283,131,127,9.6,7.114.393,Europe
+Seychelles,157,25,51,4.1,94.677,Africa
+Sierra Leone,25,3,2,6.7,6.453.000,Africa
+Singapore,60,12,11,1.5,5.535.000,Asia
+Slovakia,196,293,116,11.4,5.421.349,Europe
+Slovenia,270,51,276,10.6,2.068.211,Europe
+Solomon Islands,56,11,1,1.2,581.344,Oceania
+Somalia,0,0,0,0,10.787.000,Africa
+South Africa,225,76,81,8.2,54.956.900,Africa
+Spain,284,157,112,10,46.439.864,Europe
+Sri Lanka,16,104,0,2.2,20.675.000,Asia
+Sudan,8,13,0,1.7,38.435.252,Africa
+Suriname,128,178,7,5.6,534.189,South America
+Swaziland,90,2,2,4.7,1.119.375,Africa
+Sweden,152,60,186,7.2,9.816.666,Europe
+Switzerland,185,100,280,10.2,8.279.700,Europe
+Syria,5,35,16,1,23.412.429,Asia
+Tajikistan,2,15,0,0.3,8.468.555,Asia
+Thailand,99,258,1,6.4,65.104.000,Asia
+Macedonia,106,27,86,3.9,2.069.172,Europe
+Timor-Leste,1,1,4,0.1,1.212.107,Asia
+Togo,36,2,19,1.3,7.305.000,Africa
+Tonga,36,21,5,1.1,103.252,Oceania
+Trinidad & Tobago,197,156,7,6.4,1.340.557,North America
+Tunisia,51,3,20,1.3,10.982.754,Africa
+Turkey,51,22,7,1.4,77.695.000,Asia
+Turkmenistan,19,71,32,2.2,5.663.000,Asia
+Tuvalu,6,41,9,1,10.640,Oceania
+Uganda,45,9,0,8.3,34.856.813,Africa
+Ukraine,206,237,45,8.9,42.813.557,Europe
+United Arab Emirates,16,135,5,2.8,9.157.000,Asia
+United Kingdom,219,126,195,10.4,64.800.000,Europe
+Tanzania,36,6,1,5.7,53.470.000,Africa
+USA,249,158,84,8.7,321.968.000,North America
+Uruguay,115,35,220,6.6,3.415.866,South America
+Uzbekistan,25,101,8,2.4,31.022.500,Asia
+Vanuatu,21,18,11,0.9,264.652,Oceania
+Venezuela,333,100,3,7.7,30.620.404,South America
+Vietnam,111,2,1,2,93.448.000,Asia
+Yemen,6,0,0,0.1,27.058.000,Asia
+Zambia,32,19,4,2.5,15.473.905,Africa
+Zimbabwe,64,18,4,4.7,13.061.239,Africa
